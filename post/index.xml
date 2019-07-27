@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>222</title>
+      <link>http://dogtiti.github.io/post/first2/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://dogtiti.github.io/post/first2/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>http://dogtiti.github.io/post/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
